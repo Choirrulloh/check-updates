@@ -27,7 +27,7 @@ The script will output the following data:
 ```XML
 <?xml version="1.0" encoding="utf-8"?>
 <updates> <host>
-<name>a</name>
+<name>hostname</name>
 <engine>apt</engine>
 <packages>
 <package><name>PackageName</name><cur>1.0</cur><next>2.0</next></package>
