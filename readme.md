@@ -43,3 +43,10 @@ The script will output the following data:
 * `cur` and `next` - These fields will show the current and upgraded package versions respectivly.
 
 
+History
+-------
+
+This script was generated with some code from the [PatchDashboard](https://github.com/PatchDashboard/patchdashboard) project.
+Specifically [this script](https://github.com/PatchDashboard/patchdashboard/blob/master/scripts/patch_checker.sh)
+
+
